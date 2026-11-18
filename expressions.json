@@ -1,0 +1,354 @@
+{
+  "gentle": {
+    "id": "01",
+    "key": "gentle",
+    "name": "温柔",
+    "category": "温柔心意",
+    "file": "01_gentle.png",
+    "aliases": [
+      "安慰"
+    ],
+    "url": "https://raw.githubusercontent.com/uswish5n1/white-dragon-expressions/main/images/01_gentle.png"
+  },
+  "happy": {
+    "id": "02",
+    "key": "happy",
+    "name": "开心",
+    "category": "欢欣雀跃",
+    "file": "02_happy.png",
+    "aliases": [
+      "高兴"
+    ],
+    "url": "https://raw.githubusercontent.com/uswish5n1/white-dragon-expressions/main/images/02_happy.png"
+  },
+  "satisfied": {
+    "id": "03",
+    "key": "satisfied",
+    "name": "幸福",
+    "category": "欢欣雀跃",
+    "file": "03_satisfied.png",
+    "aliases": [
+      "满足"
+    ],
+    "url": "https://raw.githubusercontent.com/uswish5n1/white-dragon-expressions/main/images/03_satisfied.png"
+  },
+  "playful": {
+    "id": "04",
+    "key": "playful",
+    "name": "调皮",
+    "category": "欢欣雀跃",
+    "file": "04_playful.png",
+    "aliases": [
+      "俏皮"
+    ],
+    "url": "https://raw.githubusercontent.com/uswish5n1/white-dragon-expressions/main/images/04_playful.png"
+  },
+  "proud": {
+    "id": "05",
+    "key": "proud",
+    "name": "得意",
+    "category": "欢欣雀跃",
+    "file": "05_proud.png",
+    "aliases": [
+      "骄傲"
+    ],
+    "url": "https://raw.githubusercontent.com/uswish5n1/white-dragon-expressions/main/images/05_proud.png"
+  },
+  "confident": {
+    "id": "06",
+    "key": "confident",
+    "name": "自信",
+    "category": "欢欣雀跃",
+    "file": "06_confident.png",
+    "aliases": [
+      "有把握"
+    ],
+    "url": "https://raw.githubusercontent.com/uswish5n1/white-dragon-expressions/main/images/06_confident.png"
+  },
+  "shy": {
+    "id": "07",
+    "key": "shy",
+    "name": "娇羞",
+    "category": "温柔心意",
+    "file": "07_shy.png",
+    "aliases": [
+      "害羞"
+    ],
+    "url": "https://raw.githubusercontent.com/uswish5n1/white-dragon-expressions/main/images/07_shy.png"
+  },
+  "nervous": {
+    "id": "08",
+    "key": "nervous",
+    "name": "紧张",
+    "category": "忐忑低落",
+    "file": "08_nervous.png",
+    "aliases": [
+      "忐忑"
+    ],
+    "url": "https://raw.githubusercontent.com/uswish5n1/white-dragon-expressions/main/images/08_nervous.png"
+  },
+  "surprised": {
+    "id": "09",
+    "key": "surprised",
+    "name": "惊讶",
+    "category": "惊讶思索",
+    "file": "09_surprised.png",
+    "aliases": [
+      "吃惊"
+    ],
+    "url": "https://raw.githubusercontent.com/uswish5n1/white-dragon-expressions/main/images/09_surprised.png"
+  },
+  "confused": {
+    "id": "10",
+    "key": "confused",
+    "name": "疑惑",
+    "category": "惊讶思索",
+    "file": "10_confused.png",
+    "aliases": [
+      "好奇"
+    ],
+    "url": "https://raw.githubusercontent.com/uswish5n1/white-dragon-expressions/main/images/10_confused.png"
+  },
+  "thinking": {
+    "id": "11",
+    "key": "thinking",
+    "name": "思考",
+    "category": "惊讶思索",
+    "file": "11_thinking.png",
+    "aliases": [
+      "沉思"
+    ],
+    "url": "https://raw.githubusercontent.com/uswish5n1/white-dragon-expressions/main/images/11_thinking.png"
+  },
+  "realization": {
+    "id": "12",
+    "key": "realization",
+    "name": "恍然大悟",
+    "category": "惊讶思索",
+    "file": "12_realization.png",
+    "aliases": [
+      "明白了"
+    ],
+    "url": "https://raw.githubusercontent.com/uswish5n1/white-dragon-expressions/main/images/12_realization.png"
+  },
+  "angry": {
+    "id": "13",
+    "key": "angry",
+    "name": "生气",
+    "category": "恼怒不平",
+    "file": "13_angry.png",
+    "aliases": [
+      "恼火"
+    ],
+    "url": "https://raw.githubusercontent.com/uswish5n1/white-dragon-expressions/main/images/13_angry.png"
+  },
+  "furious": {
+    "id": "14",
+    "key": "furious",
+    "name": "暴怒",
+    "category": "恼怒不平",
+    "file": "14_furious.png",
+    "aliases": [
+      "盛怒"
+    ],
+    "url": "https://raw.githubusercontent.com/uswish5n1/white-dragon-expressions/main/images/14_furious.png"
+  },
+  "pouting": {
+    "id": "15",
+    "key": "pouting",
+    "name": "委屈",
+    "category": "忐忑低落",
+    "file": "15_pouting.png",
+    "aliases": [
+      "不开心"
+    ],
+    "url": "https://raw.githubusercontent.com/uswish5n1/white-dragon-expressions/main/images/15_pouting.png"
+  },
+  "sad": {
+    "id": "16",
+    "key": "sad",
+    "name": "悲伤",
+    "category": "忐忑低落",
+    "file": "16_sad.png",
+    "aliases": [
+      "伤心"
+    ],
+    "url": "https://raw.githubusercontent.com/uswish5n1/white-dragon-expressions/main/images/16_sad.png"
+  },
+  "crying": {
+    "id": "17",
+    "key": "crying",
+    "name": "哭泣",
+    "category": "忐忑低落",
+    "file": "17_crying.png",
+    "aliases": [
+      "流泪"
+    ],
+    "url": "https://raw.githubusercontent.com/uswish5n1/white-dragon-expressions/main/images/17_crying.png"
+  },
+  "tired": {
+    "id": "18",
+    "key": "tired",
+    "name": "疲惫",
+    "category": "忐忑低落",
+    "file": "18_tired.png",
+    "aliases": [
+      "累了"
+    ],
+    "url": "https://raw.githubusercontent.com/uswish5n1/white-dragon-expressions/main/images/18_tired.png"
+  },
+  "overwhelmed": {
+    "id": "19",
+    "key": "overwhelmed",
+    "name": "崩溃",
+    "category": "忐忑低落",
+    "file": "19_overwhelmed.png",
+    "aliases": [
+      "压力大"
+    ],
+    "url": "https://raw.githubusercontent.com/uswish5n1/white-dragon-expressions/main/images/19_overwhelmed.png"
+  },
+  "worried": {
+    "id": "20",
+    "key": "worried",
+    "name": "焦虑",
+    "category": "忐忑低落",
+    "file": "20_worried.png",
+    "aliases": [
+      "担心"
+    ],
+    "url": "https://raw.githubusercontent.com/uswish5n1/white-dragon-expressions/main/images/20_worried.png"
+  },
+  "relieved": {
+    "id": "21",
+    "key": "relieved",
+    "name": "释然",
+    "category": "温柔心意",
+    "file": "21_relieved.png",
+    "aliases": [
+      "放心"
+    ],
+    "url": "https://raw.githubusercontent.com/uswish5n1/white-dragon-expressions/main/images/21_relieved.png"
+  },
+  "sleepy": {
+    "id": "22",
+    "key": "sleepy",
+    "name": "困倦",
+    "category": "日常点滴",
+    "file": "22_sleepy.png",
+    "aliases": [
+      "犯困"
+    ],
+    "url": "https://raw.githubusercontent.com/uswish5n1/white-dragon-expressions/main/images/22_sleepy.png"
+  },
+  "loving": {
+    "id": "23",
+    "key": "loving",
+    "name": "喜欢",
+    "category": "温柔心意",
+    "file": "23_loving.png",
+    "aliases": [
+      "心动"
+    ],
+    "url": "https://raw.githubusercontent.com/uswish5n1/white-dragon-expressions/main/images/23_loving.png"
+  },
+  "heart": {
+    "id": "24",
+    "key": "heart",
+    "name": "比心",
+    "category": "温柔心意",
+    "file": "24_heart.png",
+    "aliases": [
+      "爱心"
+    ],
+    "url": "https://raw.githubusercontent.com/uswish5n1/white-dragon-expressions/main/images/24_heart.png"
+  },
+  "tea": {
+    "id": "25",
+    "key": "tea",
+    "name": "喝茶",
+    "category": "日常点滴",
+    "file": "25_tea.png",
+    "aliases": [
+      "品茶"
+    ],
+    "url": "https://raw.githubusercontent.com/uswish5n1/white-dragon-expressions/main/images/25_tea.png"
+  },
+  "food": {
+    "id": "26",
+    "key": "food",
+    "name": "干饭",
+    "category": "日常点滴",
+    "file": "26_food.png",
+    "aliases": [
+      "吃饭"
+    ],
+    "url": "https://raw.githubusercontent.com/uswish5n1/white-dragon-expressions/main/images/26_food.png"
+  },
+  "working": {
+    "id": "27",
+    "key": "working",
+    "name": "工作",
+    "category": "日常点滴",
+    "file": "27_working.png",
+    "aliases": [
+      "办公"
+    ],
+    "url": "https://raw.githubusercontent.com/uswish5n1/white-dragon-expressions/main/images/27_working.png"
+  },
+  "studying": {
+    "id": "28",
+    "key": "studying",
+    "name": "学习",
+    "category": "日常点滴",
+    "file": "28_studying.png",
+    "aliases": [
+      "读书"
+    ],
+    "url": "https://raw.githubusercontent.com/uswish5n1/white-dragon-expressions/main/images/28_studying.png"
+  },
+  "cheering": {
+    "id": "29",
+    "key": "cheering",
+    "name": "加油",
+    "category": "温柔心意",
+    "file": "29_cheering.png",
+    "aliases": [
+      "鼓励"
+    ],
+    "url": "https://raw.githubusercontent.com/uswish5n1/white-dragon-expressions/main/images/29_cheering.png"
+  },
+  "sleeping": {
+    "id": "30",
+    "key": "sleeping",
+    "name": "睡觉",
+    "category": "日常点滴",
+    "file": "30_sleeping.png",
+    "aliases": [
+      "晚安"
+    ],
+    "url": "https://raw.githubusercontent.com/uswish5n1/white-dragon-expressions/main/images/30_sleeping.png"
+  },
+  "peeking": {
+    "id": "31",
+    "key": "peeking",
+    "name": "偷窥",
+    "category": "日常点滴",
+    "file": "31_peeking.png",
+    "aliases": [
+      "偷看"
+    ],
+    "url": "https://raw.githubusercontent.com/uswish5n1/white-dragon-expressions/main/images/31_peeking.png"
+  },
+  "thanks": {
+    "id": "32",
+    "key": "thanks",
+    "name": "谢谢",
+    "category": "温柔心意",
+    "file": "32_thanks.png",
+    "aliases": [
+      "感谢"
+    ],
+    "url": "https://raw.githubusercontent.com/uswish5n1/white-dragon-expressions/main/images/32_thanks.png"
+  }
+}
